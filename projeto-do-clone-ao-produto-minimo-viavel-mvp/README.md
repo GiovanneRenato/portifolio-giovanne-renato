@@ -13,7 +13,7 @@ O **QRVibe** é uma ferramenta de alta performance para geração e personaliza�
 Com um motor de renderização em tempo real, o QRVibe elimina o delay entre a entrada de dados e a visualização, enquanto utiliza o **Firebase Remote Config** para gerenciar o branding da interface dinamicamente e o **Firebase Analytics** para monitorar o engajamento e as métricas de conversão de cada código gerado.
 
 ---
-![Dashboard QRVibe](https://images.unsplash.com/photo-1595079836332-9c16999bdf47?q=80&w=2070&auto=format&fit=crop)
+![Dashboard QRVibe](./qrvibe/qrvibe1)
 *Figura 1: Interface principal do sistema apresentando o painel de configuração e o preview com animação de scanner.*
 
 ## 🚀 Tecnologias Utilizadas
@@ -32,7 +32,7 @@ A plataforma foi otimizada para oferecer uma experiência fluida e orientada a d
 * **Monitoramento de Eventos:** Telemetria via Analytics para rastrear downloads, compartilhamentos e o conteúdo mais frequente nos códigos.
 * **Design Sistêmico:** Implementação de uma arquitetura de temas baseada em variáveis CSS para fácil manutenção da estética "Elegant Dark".
 
-![Visualização de Customização](https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=2070&auto=format&fit=crop)
+![Visualização de Customização](./qrvibe/qrvibe2)
 *Figura 2: Detalhes do sistema de seleção de cores e integração com o motor de renderização.*
 
 ## 🔧 Como Executar
@@ -40,9 +40,6 @@ A plataforma foi otimizada para oferecer uma experiência fluida e orientada a d
 2. Certifique-se de ter as credenciais do Firebase configuradas em `firebase-applet-config.json`.
 3. Instale as dependências do projeto: `npm install`.
 4. Inicie o servidor de desenvolvimento: `npm run dev`.
-
-![Fluxo de Dados QRVibe](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop)
-*Figura 3: Representação visual do pipeline de dados entre os serviços do Firebase e o State Manager da aplicação.*
 
 ---
 [Voltar ao início](https://github.com/GiovanneRenato/portfolio-giovanne-renato-da-silva-vieira)
