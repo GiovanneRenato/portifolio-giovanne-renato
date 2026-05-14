@@ -13,7 +13,7 @@ O **QRVibe** é uma ferramenta de alta performance para geração e personaliza�
 Com um motor de renderização em tempo real, o QRVibe elimina o delay entre a entrada de dados e a visualização, enquanto utiliza o **Firebase Remote Config** para gerenciar o branding da interface dinamicamente e o **Firebase Analytics** para monitorar o engajamento e as métricas de conversão de cada código gerado.
 
 ---
-![Dashboard QRVibe](projeto-do-clone-ao-produto-minimo-viavel-mvp/qrvibe/qrvibe1.png)
+![Dashboard QRVibe](./qrvibe/qrvibe1.png)
 *Figura 1: Interface principal do sistema apresentando o painel de configuração e o preview com animação de scanner.*
 
 ## 🚀 Tecnologias Utilizadas
