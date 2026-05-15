@@ -1,2 +1,3 @@
-[Dashboard Finapp](./currículo.pdf)
+[📄 Abrir PDF](./currículo.pdf)
+#
 [Voltar ao início](https://github.com/GiovanneRenato/portfolio-giovanne-renato-da-silva-vieira)
