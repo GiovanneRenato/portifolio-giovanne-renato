@@ -2,12 +2,6 @@
 
 # 🚀 Currículo
 
-Aqui seria o meu currículo, fique a vontade para dar uma olhada :relaxed:.
-
-<br>
-
-## 📷 Preview
-
 <p align="center">
   <img src="./preview.png" width="700">
 </p>
